@@ -1,5 +1,7 @@
 # Disdorqin Field
 
+
+
 > 科研、电力预测、项目日志与 Vibe Coding 实验场
 
 一个基于 **Astro + TypeScript** 的个人博客，内容用 **Markdown/MDX 内容集合**管理，后台编辑交给 **Pages CMS**，部署在 **GitHub Pages**，评论功能支持 **Waline**（默认）与 **Giscus**（可选）。纯静态、零服务端运行时、不依赖数据库。
